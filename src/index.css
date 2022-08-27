@@ -12,6 +12,9 @@ body {
 
 .testimonialSection1 {
     background-color: #733FC8;
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top 10px right 100px;
     padding: 30px;
     border-radius: 10px;
     grid-column:  1/3;
