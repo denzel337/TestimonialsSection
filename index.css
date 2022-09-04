@@ -54,6 +54,7 @@ body {
 
 .profile img {
     border-radius: 25px;
+    margin: 8px;
 }
 .testimonialText {
     color: white;
